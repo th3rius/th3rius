@@ -12,7 +12,7 @@
  Hey there :p
  
  I'm a fullstack web developer and JavaScript/TypeScript enthusiast who loves learning and hacking stuff. I currently
- work at [to-up.dev](https://to-up.dev) and maintain a personal blog at :mage_man: [notsnitsa.com](https://notsnitsa.com). If you'd like to contact me, send me some :heart: at
+ work at [to-up.dev](https://to-up.dev) and maintain a personal blog :mage_man: at [notsnitsa.com](https://notsnitsa.com). If you'd like to contact me, send me some :heart: at
  [@gabhk3](https://twitter.com/gabhk3).
 
 # Languages and Tools:
