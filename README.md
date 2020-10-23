@@ -3,6 +3,7 @@
 <p align="center">
  <a href="https://twitter.com/gabhk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabhk3" height="30" width="40" /></a>
  <a href="https://instagram.com/gabhk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabhk3" height="30" width="40" /></a>
+ <a href="https://notsnitsa.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/43160711/97001691-2f77b880-150f-11eb-8211-69eb9f789da1.png" alt="Notsnitsa" height="30" width="40" /></a>
  </p>
  
  <p>
