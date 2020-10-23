@@ -5,10 +5,14 @@
  <a href="https://instagram.com/gabhk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabhk3" height="30" width="40" /></a>
  </p>
  
+ <p>
+   <img width="250" align='right' src="https://user-images.githubusercontent.com/43160711/97000649-65b43880-150d-11eb-947b-6266be2877d3.png">
+ </p>
+ 
  Hey there :p
  
  I'm a fullstack web developer and JavaScript/TypeScript enthusiast who loves learning and hacking stuff. I currently
- work at [to-up.dev](https://to-up.dev) and maintain a personal blog at [notsnitsa.com](https://notsnitsa.com). If you'd like to contact me, send me some :heart: at
+ work at [to-up.dev](https://to-up.dev) and maintain a personal blog at :mage_man: [notsnitsa.com](https://notsnitsa.com). If you'd like to contact me, send me some :heart: at
  [@gabhk3](https://twitter.com/gabhk3).
 
 # Languages and Tools:
