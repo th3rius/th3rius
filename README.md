@@ -1,5 +1,3 @@
-# About me:
-
 <p align="center">
  <a href="https://twitter.com/gabhk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabhk3" height="30" width="40" /></a>
  <a href="https://instagram.com/gabhk3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabhk3" height="30" width="40" /></a>
