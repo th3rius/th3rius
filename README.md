@@ -5,7 +5,8 @@
 I'm a web developer passionate about **hacking stuff**.
 
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131&logo=gnuprivacyguard&logoColor=white)](https://github.com/th3rius.gpg)
-[![twitter](https://img.shields.io/badge/gabhk3-61DAFB?logo=twitter&logoColor=white&style=flat&color=313131&cache=360)](https://github.com/orhun.gpg)
+[![twitter](https://img.shields.io/badge/gabhk3-61DAFB?logo=twitter&logoColor=white&style=flat&color=313131&cache=360)](https://twitter.com/gabhk3)
+[![linkedin](https://img.shields.io/badge/gabhk3-61DAFB?logo=linkedin&logoColor=white&style=flat&color=313131&cache=360)](https://linkedin.com/in/gabhk3)
 
 <br>
 
