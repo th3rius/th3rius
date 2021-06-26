@@ -9,12 +9,14 @@ I'm a web developer passionate about **hacking stuff**.
 
 <br>
 
+I primarily work with TypeScript as a full-stack developer nowdays.
+
 Here are a few of my interesting projects:
 
 - [ibis](https://github.com/th3risu/ibis) - A modern [SoulSeek](http://www.slsknet.org/) client
 - [raven](https://github.com/th3risu/raven) - A public music metadata GraphQL API
+- [endpointer](https://github.com/th3risu/endpointer) - A tool for locating endpoints on JS files
 - [.dotfiles](https://github.com/th3risu/.dotfiles) - My personal dotfiles
-
 
 I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of packages for [Arch Linux](https://archlinux.org/). I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
 
