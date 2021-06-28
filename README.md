@@ -5,8 +5,7 @@
 I'm a web developer passionate about **hacking stuff**.
 
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131&logo=gnuprivacyguard&logoColor=white)](https://github.com/th3rius.gpg)
-[![twitter](https://img.shields.io/badge/gabhk3-61DAFB?logo=twitter&logoColor=white&style=flat&color=313131&cache=360)](https://twitter.com/gabhk3)
-[![linkedin](https://img.shields.io/badge/gabhk3-61DAFB?logo=linkedin&logoColor=white&style=flat&color=313131&cache=360)](https://linkedin.com/in/gabhk3)
+[![twitter](https://img.shields.io/badge/gabhk3-61DAFB?logo=twitter&logoColor=white&flat&color=313131&cache=360)](https://twitter.com/gabhk3)
 
 <br>
 
@@ -21,6 +20,6 @@ Here are a few of my interesting projects:
 
 I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of packages for [Arch Linux](https://archlinux.org/). I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
 
-I sometimes write [blog](https://notsnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabhk3/) about **job-related** matters.
+I sometimes write [blog](https://notsnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabrielhk3/) about **job-related** matters.
 
 ~ [_notsnitsa.com_](https://notsnitsa.com/)
