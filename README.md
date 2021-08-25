@@ -1,4 +1,4 @@
-<img align="left" src="orhun.dev/img/crow.png">
+<img align="left" src="http://orhun.dev/img/crow.png">
 
 ### Hey!
 
