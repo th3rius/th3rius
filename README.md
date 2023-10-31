@@ -18,7 +18,7 @@ Here are a few of my interesting projects:
 - [endpointer](https://github.com/th3rius/endpointer) - A tool for locating endpoints on JS files
 - [.dotfiles](https://github.com/th3rius/.dotfiles) - My personal dotfiles
 
-I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of packages for [Arch Linux](https://archlinux.org/). I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
+I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of packages for [Arch Linux](https://archlinux.org/). I also contribute to a few other open source projects.
 
 I sometimes write [blog](https://notsnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabrielhk3/) about **job-related** matters.
 
