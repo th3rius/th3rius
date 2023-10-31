@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/th3rius/notsnitsa/blob/main/public/witchhead.png?raw=true">
+<img align="left" src="https://github.com/th3rius/notsnitsa/blob/main/public/witchhead.png?raw=true" width="120">
 
 ### Hey!
 
