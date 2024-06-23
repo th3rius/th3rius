@@ -22,4 +22,4 @@ I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of 
 
 I sometimes write [blog](https://nocnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabrielhk3/) about **job-related** matters.
 
-~ [_notsnitsa.com_](https://nocnitsa.com/)
+~ [_nocnitsa.com_](https://nocnitsa.com/)
