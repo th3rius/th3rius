@@ -20,6 +20,6 @@ Here are a few of my interesting projects:
 
 I [maintain](https://aur.archlinux.org/packages/?&SeB=m&K=th3rius) a handful of packages for [Arch Linux](https://archlinux.org/). I also contribute to a few other open source projects.
 
-I sometimes write [blog](https://notsnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabrielhk3/) about **job-related** matters.
+I sometimes write [blog](https://nocnitsa.com/) posts and occasionally [tweet](https://twitter.com/gabhk3) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/gabrielhk3/) about **job-related** matters.
 
-~ [_notsnitsa.com_](https://notsnitsa.com/)
+~ [_notsnitsa.com_](https://nocnitsa.com/)
