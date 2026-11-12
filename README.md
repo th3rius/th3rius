@@ -4,8 +4,8 @@
 [![PGP key EB21 FA7F 7589 61AD](https://img.shields.io/badge/PGP-EB21%20FA7F%207589%2061AD-d6baff?logo=gnuprivacyguard&logoColor=white&labelColor=40168c)](https://github.com/th3rius.gpg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="witch-hat-dark.gif">
-  <img align="right" src="witch-hat.gif" alt="Witch hat" width="380">
+  <source media="(prefers-color-scheme: dark)" srcset="witch-hat-dark.webp">
+  <img align="right" src="witch-hat.webp" alt="Witch hat" width="380">
 </picture>
 
 I'm a web developer focused on software architecture. Most of my work consists
